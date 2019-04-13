@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225920779338",
+    "firebase_url": "https://atmfirebaseproject-80c2f.firebaseio.com",
+    "project_id": "atmfirebaseproject-80c2f",
+    "storage_bucket": "atmfirebaseproject-80c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225920779338:android:09aec06a2958802a",
+        "android_client_info": {
+          "package_name": "com.peggy.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225920779338-4nqr5tcagvp3frn5dbj2rjsr57mk56en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peggy.atm",
+            "certificate_hash": "e4f9b26b86b16fc75a9ff524e0fbb4fa070ba080"
+          }
+        },
+        {
+          "client_id": "225920779338-bo7tf01em4l7jd5a82sm1qog2rke5m2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIyBLpY000JB67ddGBwxrtMM-cb_ALf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225920779338-bo7tf01em4l7jd5a82sm1qog2rke5m2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
